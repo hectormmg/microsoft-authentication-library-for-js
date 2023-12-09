@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Fri, 01 Dec 2023 18:46:06 GMT and should not be manually modified.
+This log was last generated on Sat, 09 Dec 2023 00:10:58 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 14.5.1
+
+Sat, 09 Dec 2023 00:10:58 GMT
+
+### Patches
+
+- Check RT expiration before attempting to redeem it #6703 (thomas.norling@microsoft.com)
+- Fix external account loading #6744 (hemoral@microsoft.com)
 
 ## 14.5.0
 

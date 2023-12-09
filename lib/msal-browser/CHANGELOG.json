@@ -2,6 +2,35 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Sat, 09 Dec 2023 00:10:58 GMT",
+      "version": "3.7.0",
+      "tag": "@azure/msal-browser_v3.7.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "4ef12a58add1bf9d62bc30b700a80b860c340adc",
+            "comment": "Check RT expiration before attempting to redeem it #6703"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v14.5.1",
+            "commit": "not available"
+          }
+        ],
+        "patch": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "4ef12a58add1bf9d62bc30b700a80b860c340adc",
+            "comment": "Fix external account loading #6744"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 01 Dec 2023 18:46:06 GMT",
       "version": "3.6.0",
       "tag": "@azure/msal-browser_v3.6.0",

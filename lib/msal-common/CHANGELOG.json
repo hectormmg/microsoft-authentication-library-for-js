@@ -2,6 +2,27 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Sat, 09 Dec 2023 00:10:58 GMT",
+      "version": "14.5.1",
+      "tag": "@azure/msal-common_v14.5.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "4ef12a58add1bf9d62bc30b700a80b860c340adc",
+            "comment": "Check RT expiration before attempting to redeem it #6703"
+          },
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "4ef12a58add1bf9d62bc30b700a80b860c340adc",
+            "comment": "Fix external account loading #6744"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 01 Dec 2023 18:46:06 GMT",
       "version": "14.5.0",
       "tag": "@azure/msal-common_v14.5.0",
